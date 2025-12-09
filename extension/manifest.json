@@ -1,9 +1,0 @@
-{
-  "manifest_version": 3,
-  "name": "AI Text Summarizer",
-  "version": "1.0",
-  "description": "Summarize selected text using AI.",
-  "permissions": ["contextMenus", "scripting", "storage"],
-  "background": {"service_worker": "background.js"},
-  "action": {"default_popup": "popup.html"}
-}

@@ -1,1 +1,0 @@
-document.getElementById('go').onclick=async()=>{ /* AI call placeholder */};
